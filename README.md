@@ -1,3 +1,29 @@
+# FrontEnd
+
+Projeto frontend desenvolvido com as seguintes skils:
+- Next JS
+- Typescript
+- SASS
+- React-Icons
+- Link - Next
+- Axios para requisições ao backend
+- Nookies para gerenciar cookies do navegador
+- JWT decode para segurança
+- React Toastfy para alertas personalizados
+- Modal do React.
+
+# Print
+
+![image](https://user-images.githubusercontent.com/97065934/186701675-774b5c7b-5177-45c3-a4be-0309b48ea280.png)
+
+![image](https://user-images.githubusercontent.com/97065934/186702340-59a611f2-e26f-4c81-87c0-e82bba6da86b.png)
+
+![image](https://user-images.githubusercontent.com/97065934/186702468-6a05f08e-479d-44ea-b4d5-acaf561ca180.png)
+
+![image](https://user-images.githubusercontent.com/97065934/186702558-30aeac97-f31c-4825-a50e-7a7602c71a15.png)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
